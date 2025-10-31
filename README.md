@@ -68,8 +68,9 @@ Aircraft Model Comparison – Identified aircraft with the lowest weighted sever
 
 Visualization (Tableau-ready) – Bar charts, heatmaps, and dashboards illustrating severity vs frequency patterns.
 
-# View Interactive Dashboard
-https://public.tableau.com/app/profile/raphael.ndemo/viz/AircraftsoperationalRisksAnalysis/AircraftSafetyRiskDashboardData-DrivenInsightsforStrategicFleetDecisions?publish=yes
+# View Live Dashboard
+[👉 Click here to view on Tableau Public](https://public.tableau.com/views/YourDashboardName)
+
 
 # Conclusion
 
