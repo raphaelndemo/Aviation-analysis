@@ -68,6 +68,9 @@ Aircraft Model Comparison – Identified aircraft with the lowest weighted sever
 
 Visualization (Tableau-ready) – Bar charts, heatmaps, and dashboards illustrating severity vs frequency patterns.
 
+# View Interactive Dashboard
+https://public.tableau.com/app/profile/raphael.ndemo/viz/AircraftsoperationalRisksAnalysis/AircraftSafetyRiskDashboardData-DrivenInsightsforStrategicFleetDecisions?publish=yes
+
 # Conclusion
 
 The analysis provides a data-driven safety ranking of aircraft that the company can use to inform purchasing and risk management decisions.
